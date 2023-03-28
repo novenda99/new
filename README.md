@@ -1,1 +1,3 @@
 # new
+About me
+Geek
